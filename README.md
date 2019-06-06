@@ -1,2 +1,1 @@
-# live-chat
 # straw-poll
